@@ -1,4 +1,7 @@
 # upskill_campus
+
+**Week Report**
+**Project on AI Generative street light**
 **Functionalities and data requirement**
 
 According to the proposed web application platform made in our previous work, i.e., Deepaisarn et al. [19], the functionality of the system includes the device connection state monitoring system, environmental data dashboard, and the device disconnection detection system. In the current implementation, the essential data collected using the installed environmental sensor appears on the dashboard, as demonstrated in . The dashboard consists of the numerical and graphical format of the data, showing temperature, humidity, wind velocity, wind direction, illuminance, rain level, Ultraviolet A, and Ultraviolet B. These parameters were selected for display on the dashboard due to their roles in the analytical tasks discussed later in this article. Therefore, it was necessary to ensure that the data was collected successfully and correctly.
